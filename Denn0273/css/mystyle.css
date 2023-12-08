@@ -1,0 +1,89 @@
+body {
+	margin:0px;
+	background: linear-gradient(109.6deg, rgb(17, 151, 147) 11.2%, rgb(154, 214, 212) 55.4%, rgb(255, 233, 171) 100.2%);
+	}
+
+h1 {
+	font-weight: bold;
+	font-family: Roboto;
+	color: #24527a;
+	font-size: 240%;
+	margin-bottom: 25px;
+	margin-top:15px;
+	text-align: center;
+}
+
+ p {
+	 font-family: Roboto, Verdana;
+	 padding-left: 35px;
+	 padding-right:10%;
+	  }
+
+
+ul {
+	display: block;
+	padding-left: 5px;
+	text-align:left;
+	list-style:none;
+}
+
+	
+.Emma {
+	float: left;
+	margin: 5px;
+	margin-right: 15px;
+	height: 15%;
+	width: 12%;
+	border-radius: 25px;
+	border: 1px solid;	
+	}
+
+section {
+			display: block;
+			margin-left: 15%;
+			color:#3b558b;
+		}
+	
+.Frank {
+	float: right;
+	margin-left: 15px;
+	width: 20%;
+	height: 20%;
+	box-shadow: 12px;
+}
+video {
+	float: right;
+}
+
+.resume {
+	margin-left: 30%;
+	margin-right: auto;
+	font-family: Rubik;
+	color:#142d4c;
+}
+
+
+footer {
+	border:3px solid #247291;
+	height: 60px;
+	width: 100%;
+	display: flex;
+	align-items: center;
+	text-align: center;
+	justify-content: center;
+	}
+
+form {
+	display: block;
+	padding-left: 30%;
+	}
+
+nav {
+	display: block;
+	border: 1px;
+}
+
+.reflect {
+	margin-top: 70px;
+	
+}
